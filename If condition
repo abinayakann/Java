@@ -1,8 +1,6 @@
-public class IfExample {  
+public class IfAge{  
 public static void main(String[] args) {  
-    //defining an 'age' variable  
-    int age=20;  
-    //checking the age  
+    int age=20;    
     if(age>18){  
         System.out.print("Age is greater than 18");  
     }  
